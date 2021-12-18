@@ -57,7 +57,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER + OptionKind.PREFERENCE
   },
   defaultUrl: {
-    value: "physics.pdf",
+    value: ".../notes/computergraphicsbook.pdf",
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
