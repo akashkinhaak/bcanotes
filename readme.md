@@ -1,3 +1,6 @@
 Welcomw TO AKASH World
 
-https://bit.ly/3EPrVLb
+
+Link To Web App
+https://akashkinhaak.github.io/bcanotes
+
