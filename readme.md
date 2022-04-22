@@ -19,7 +19,7 @@ Welcomw TO AKASH World
 <br>
 <h1>WebApp Preview <a href ="" https://akashkinhaak.github.io/bcanotes/app> Here  </a></h1>
 <h2>Screenshots : </h2>
-<img src ="./images/screenshotweb01.png">
+<img src ="./images/screenshot01web.png">
 Link To Web App
 https://akashkinhaak.github.io/bcanotes
 
