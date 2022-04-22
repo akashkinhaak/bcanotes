@@ -13,13 +13,14 @@ Welcomw TO AKASH World
 <h1> Preview OF APP</h1>
 <img src="./images/screenshotapp01.png">
 <br>
-<img src="./images/screenshotapp02.png">
+<img src ="./images/screenshot01web.png">
+
 
 <hr>
 <br>
 <h1>WebApp Preview <a href ="" https://akashkinhaak.github.io/bcanotes/app> Here  </a></h1>
 <h2>Screenshots : </h2>
-<img src ="./images/screenshot01web.png">
+<img src="./images/screenshotapp02.png">
 Link To Web App
 https://akashkinhaak.github.io/bcanotes
 
