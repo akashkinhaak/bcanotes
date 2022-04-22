@@ -14,4 +14,4 @@
 <br>
 <img src="../images/screenshotapp02.png">
 
-<h3>Get Full Project Preview <a href="https://github.com/akashkinhaak/bcanotes">Here</h3>
+<h3>Get Full Project Preview <a href="https://github.com/akashkinhaak/bcanotes/">Here</h3>
